@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q={Germany}&appid={c170402410c21dfd4cc5abec63cb7e66}&units=metric
